@@ -1,0 +1,27 @@
+
+body{
+    background-color: darkblue;
+}
+.sobre {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+
+.sobre h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.sobre p {
+    color: black;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: justify;
+}
